@@ -1,0 +1,1406 @@
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\SAIRCMS.Client.StaticWebAssets.xml
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\SAIRCMS.Client.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\ref\SAIRCMS.Client.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\SAIRCMS.Client.pdb
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\service-worker-assets.js
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\service-worker.js
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\SAIRCMS.Client.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\SAIRCMS.Client.pdb
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\MudBlazor.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\MudBlazor.ThemeManager.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Syncfusion.Blazor.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Syncfusion.ExcelExport.Net.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Syncfusion.Licensing.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Syncfusion.PdfExport.Net.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.7.js.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\SAIRCMS.Domain.dll.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\MudBlazor.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\MudBlazor.ThemeManager.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Syncfusion.Blazor.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Syncfusion.ExcelExport.Net.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Syncfusion.Licensing.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Syncfusion.PdfExport.Net.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.7.js
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\SAIRCMS.Domain.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\SAIRCMS.Domain.pdb
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.csproj.AssemblyReference.cache
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.AssemblyInfoInputs.cache
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.AssemblyInfo.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.csproj.CoreCompileInputs.cache
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.RazorComponent.input.cache
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Aayush.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Chat\Chat.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Chat\ChatChannels.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Chat\ChatUsers.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Chat\User.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Chat\UserMessage.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Email\Email.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Email\EmailNavList.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Email\Inbox.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Pages\Authentication\Forgot.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Pages\Authentication\Login.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Pages\Authentication\Register.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Pages\Authentication\Reset.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Pages\Utility\Faq.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Pages\Utility\WasmLoading.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Personal\Account.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Personal\Dashboard.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Product\ProductList.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Setups\Category\CategoryList.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Shared\LoginLayout.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Shared\PersonCard.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.RazorComponent.output.cache
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\SAIRCMS.Client.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.TagHelpers.input.cache
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.TagHelpers.output.cache
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.RazorCoreGenerate.cache
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Aayush.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Chat\Chat.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Chat\ChatChannels.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Chat\ChatUsers.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Chat\User.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Chat\UserMessage.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Email\Email.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Email\EmailNavList.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Email\Inbox.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Pages\Authentication\Forgot.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Pages\Authentication\Login.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Pages\Authentication\Register.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Pages\Authentication\Reset.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Pages\Utility\Faq.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Pages\Utility\WasmLoading.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Personal\Account.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Personal\Dashboard.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Product\ProductList.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Setups\Category\CategoryList.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Shared\LoginLayout.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Shared\PersonCard.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\SsKT7+cn.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\UIphVkxC.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\4t7j3jZv.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\cLLLiBzg.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\LWWUR4ND.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\luwtzCyB.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\wNACtqZz.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Oap+t2Wl.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\4Fh0D44x.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\IfPxs3fp.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\hWHvwUde.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\yiPeaYI0.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\eIx5pec9.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\W0Lecled.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\3NL6mqOC.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\w5S9qtY3.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\e5sBHKTg.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\6qiyrmxg.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\taNgIJQx.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\RA8H+HVY.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Ccze9yYG.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\NDgqjJc4.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\XZkBQaHV.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\0DozKnq6.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Gf6sZGVQ.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\eK2yNB0L.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\NuTSpyA1.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\15ByCa9D.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\bUSl+wTF.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\X7d3enL6.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\KM5tCAbI.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\wc0Iq9QS.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\EWcdaE25.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\SCX6+evF.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\oP+cJ2tu.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\RMXR5ZuT.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Aee3Q757.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\v8TB+hRx.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\NzWXte68.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Oudej3T2.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\aXtUQ2S4.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Tm2fiRXz.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\+KAuw6jq.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\rY7pg8tq.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\bX0MAz+1.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\2epwDUrU.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\aweJUZGv.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\b33pkJBJ.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\6joffpvc.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\MCA9ji4J.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\tqYRSaDW.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\dmISxFE+.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\cQYicrrG.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Y5tYPqCZ.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\H4wpWSC4.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Ke+D7RD+.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\aWvlZfKI.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\H4xxHnrF.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\nLC5ek49.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\pWl+6Etw.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\tfxAH8gD.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\GlN3+Uag.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\yzRuTys+.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Y5OOonCi.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\56A32iQS.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\0Jib5ctK.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\qpVhu6+B.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\5N6K0Dp5.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\IZUoEeMY.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\wE0Y25n7.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\87WqkNpb.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\lrX8J6JM.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\upy96Uh6.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\6Zbz8wID.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\xhzOHgaj.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\+xwMIlyq.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\+eaod9pQ.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\jKYG9Icd.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\BAIpRSH8.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\KRkThdIX.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\kLOKiPt4.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\oInd9Zep.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\DaVCLM4k.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\ISYwvZiS.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\zp53o++x.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\n0txDNT1.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\b9dKtm+c.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\CYU3v7cI.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\N+PkPChc.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\E15OBBVs.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\txwxCriv.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\dhxxfE2L.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\awdQQDSe.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\yorJhxkC.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\b0QYaSoT.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\4nx+sb5x.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\mMD81A4G.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\dgf5nYJS.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\JDAAcEgx.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Q99Mz+wc.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\X+FOlFVv.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\4+lf8iyG.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Spis5FLR.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\tVMrIdK1.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\jIEKSL3X.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\kZzRK0XM.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\t+hu3lTp.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\B71+PvEJ.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\kcA23Tve.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\6EHNUR3M.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\aJUWBE3C.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\msMSyt7k.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\3xW1c8F8.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\4by6uzOc.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\1cQUL6R0.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\YY2J4+9G.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\uRYcbeof.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\6R4Cvx5b.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\SyVV8qj8.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Nnitu5YB.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\uHVd5LUa.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\FqaDggwO.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\8KSlRs6D.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\cXu7ATQv.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Cm7k6V0g.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\XGroqETP.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Gjowd1sU.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\v0FFFM93.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\bGjQmEvv.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\+zXHBwI0.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\tdo+57mW.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\4oEmE63F.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\m5utvGpk.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\YncQ8zm5.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\RDNLICix.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\uGnOKMsH.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Yy2O5v5T.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\8Qqk8h16.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\VZdbi1FL.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\8hJCtwEk.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\d+aHP3Bm.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\ylHDr8x5.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\XJqwlPPE.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\jml8bJMM.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\jMpTeW7y.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\i75HmqLC.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\q7hi72Vp.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\hvYr+0bH.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\dkkmpyY8.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\6kaxIkZC.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\FBkA7CK2.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\PR4yaqYE.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\CkXZDBIY.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\ldcKuYkF.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\MPpkS0w6.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Se+s1LFe.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\FzJCVIZA.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\4EJIiNFM.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\w85AqBab.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\JfhGI+Hx.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\vHMtec6p.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\IyfLss1r.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\UehMsMNS.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\5bnR6hLB.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\ytW146lz.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\R9+qhwTE.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\JtbNVQq6.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\AijgVqx+.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\nxYEPJUq.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\1dB2rdxO.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\GeBpobOS.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\cAfNx56c.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\TnXV8GPv.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\u2f+X+iF.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\8SdGPVDk.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\J9e2WPiL.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\wzW24Mun.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\xJgp4RIk.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\GuR9BtPH.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\uI5SjzOs.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\DAw33edd.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\v6IB2pvY.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\wOjQ+UmU.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\nJAOzYFT.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\++SHeJ3J.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\ccqW9DVc.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\zA6Dqe0w.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\RRs1OeQd.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\O+Q9UhO3.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\uRBo7908.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\WdTuYbCf.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\3wmGP0LV.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\cZzZRb+e.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Tq05DqNx.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\wzIvxxH+.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\OKYBVLbT.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\+mBoB0rL.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\j9w3Zdff.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Hc3n3t1i.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\exyreCnk.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\5PHkz64A.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\qNGSMHf8.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Bdd2Exio.gz
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\staticwebassets\SAIRCMS.Client.StaticWebAssets.Manifest.cache
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\staticwebassets\SAIRCMS.Client.StaticWebAssets.xml
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\scopedcss\bundle\SAIRCMS.Client.styles.css
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\scopedcss\projectbundle\SAIRCMS.Client.bundle.scp.css
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.RazorTargetAssemblyInfo.cache
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.csproj.CopyComplete
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\ref\SAIRCMS.Client.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.pdb
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\serviceworkers\wwwroot\service-worker.js
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\service-worker-assets.js
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\SAIRCMS.Client.StaticWebAssets.xml
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\SAIRCMS.Client.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\ref\SAIRCMS.Client.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\SAIRCMS.Client.pdb
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\service-worker-assets.js
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\service-worker.js
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\SAIRCMS.Client.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\SAIRCMS.Client.pdb
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\MudBlazor.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\MudBlazor.ThemeManager.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Syncfusion.Blazor.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Syncfusion.ExcelExport.Net.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Syncfusion.Licensing.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Syncfusion.PdfExport.Net.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.13.js.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\SAIRCMS.Domain.dll.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\MudBlazor.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\MudBlazor.ThemeManager.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Syncfusion.Blazor.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Syncfusion.ExcelExport.Net.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Syncfusion.Licensing.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Syncfusion.PdfExport.Net.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.13.js
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\SAIRCMS.Domain.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\bin\Debug\net5.0\wwwroot\_framework\SAIRCMS.Domain.pdb
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.csproj.AssemblyReference.cache
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.AssemblyInfoInputs.cache
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.AssemblyInfo.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.csproj.CoreCompileInputs.cache
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.MvcApplicationPartsAssemblyInfo.cache
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.RazorComponent.input.cache
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Aayush.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Chat\Chat.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Chat\ChatChannels.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Chat\ChatUsers.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Chat\User.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Chat\UserMessage.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Email\Email.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Email\EmailNavList.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Email\Inbox.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Pages\Authentication\Forgot.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Pages\Authentication\Login.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Pages\Authentication\Register.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Pages\Authentication\Reset.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Pages\Utility\Faq.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Applications\Pages\Utility\WasmLoading.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Personal\Account.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Personal\Dashboard.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Product\ProductList.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Setups\Category\CategoryList.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Shared\LoginLayout.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Shared\PersonCard.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.RazorComponent.output.cache
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\RazorDeclaration\SAIRCMS.Client.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.TagHelpers.input.cache
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.TagHelpers.output.cache
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.RazorCoreGenerate.cache
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Aayush.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Chat\Chat.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Chat\ChatChannels.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Chat\ChatUsers.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Chat\User.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Chat\UserMessage.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Email\Email.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Email\EmailNavList.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Email\Inbox.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Pages\Authentication\Forgot.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Pages\Authentication\Login.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Pages\Authentication\Register.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Pages\Authentication\Reset.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Pages\Utility\Faq.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Applications\Pages\Utility\WasmLoading.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Personal\Account.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Personal\Dashboard.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Product\ProductList.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Pages\Setups\Category\CategoryList.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Shared\LoginLayout.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Shared\PersonCard.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\VHvdsMIb.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\fCNXiX3d.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\4q+jrf+z.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\vucilmiu.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\NTh6aY7K.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\bKInYFoq.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Mq2U+TTW.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\82L1KYlH.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\i0bITVOz.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\YwL9YMxu.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\knIZw01p.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\ksAfD52T.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\qqOPhsL1.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\9zz9OVqp.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\39747oBb.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\+mTnAz4o.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Xd78Q1LG.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\dNz3FpK4.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Bmx8kcoa.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\lAlNL6Vf.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\ZVEkLBic.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\SezjYDEb.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\S6q9rC6u.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\1wEAR1r8.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\3SGdfVaM.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\zX6VfFL5.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\RHYShwaw.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\qPvFCgLp.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Tv60IQkR.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\wPHGjYyN.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\UoPqh+K+.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\5P13gU1a.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\GrtVR0ks.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\J8BJcAXR.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\oYXvmJYB.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\fsEsx++Y.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\tHy7DRKQ.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\65jiwbew.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\dUvuKXWm.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\A+9VE+A2.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\yCaDBZ+G.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\TTv0EGy9.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\QLkxh1yN.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\cwmQojz+.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\xsD2hDxL.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Z17JNVWk.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\K4UwdMsn.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\YyaOGWRc.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\e82joOnY.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\kmovsAi1.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\7um5oX+a.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\cgy+M6LO.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\sXPox93K.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Xym6lck1.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\5+NEo7T8.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\R8SUh2XB.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\3mW4LHGP.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\juxxs6Zu.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\xH04xBpX.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Qsdm18B8.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\ESFBKTsE.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\vWuFM6Qu.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\CW2h0O7y.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\cUm0WEu2.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\+Hym7PzX.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\qU8Zir+v.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Rajl3WG8.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\yV3YVG4T.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Ad57AofF.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\gn8mQkJJ.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\oYNueeLa.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\ufYLHC1w.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\JKmpTIqt.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\9YBzLTKK.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\5rsCqZrN.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\5qeebM4j.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\JeA7wRcu.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\a+TEzz4+.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\RTcNWOcX.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\QHhiHebw.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\RyPo31OA.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\BWW+9K0K.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\XcxOPY0o.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\SzhNcB75.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\AVfgYHJR.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\2ugy+Nii.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\K879ekwr.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\26e4Qtz+.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\sgI927O1.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\ZfF5LDOX.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Nh0SXZw6.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\+MaGIljJ.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\TKeRZJyH.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\IarCiH3D.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\XnP6VSYL.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\I6ZAPCcC.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\AI+GWV5s.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\aVRdpbt7.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\d8HV8odk.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\vf+2eyh5.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\+5FeosjN.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\kdnDa5D1.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\HYk6SJ03.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\8Rtth4a8.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\diqcP9R7.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\30fDzGhY.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\d7hflGyA.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\POVRaw3d.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\s4IMVMIl.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\uzAIXzwH.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\qWv9nelX.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\RpCXPYhU.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\DK9M8ctM.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\te5pmn2h.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\6nplWPU6.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\mtzXSPBV.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\57wRgqvo.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\PgdOsy73.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\nwIP13M9.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\i25+3fRA.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\sT+rPIQg.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\fk77FbES.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\z02TWOju.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\ihxkVASI.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\AtiWJnqc.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\TJmNSAZT.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\5wlT+c0s.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Jl4l8jjK.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\d1kOZKBw.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\5FWeyP57.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\ZSZYt5kI.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\nBkNTokH.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\fKeBGiE1.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\AmVYavZZ.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Cunaqtln.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\Od3krSU+.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\qkBVJAkw.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\S1QtIWNw.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\82BHm1YI.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\HZn0pVtH.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\K2Nk2CCs.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\8saXy4zc.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\89N1Qhnq.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\rLf+KTTu.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\eTU0SBZh.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\lPqp0N+G.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\+kYxL6VJ.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\U9jy3zxN.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\NWEl2m10.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\UlN5exmB.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\4zggaysE.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\9F8gDiTf.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\KNHnbRAr.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\JfVXgtBp.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\NAKVAjAs.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\F27O2vDy.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\sV+1UbnA.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\l5WNCbJa.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\EqTgT+lw.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\CNLfpNsv.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\EAkKshj6.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\3Pc6KTFV.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\HYRkWCkj.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\nqPFJ8xM.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\t67daX4s.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\tdAPLpwK.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\loPLYi7R.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\GmrReQdm.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\S9PFD2ql.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\ePEk+o+g.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\wpDuYLKf.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\k1WukUSn.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\thnfk56q.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\2Afn9hou.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\jCdRYutw.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\UgaA2KCn.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\rlAQTJed.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\mEcW6rp2.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\1rZKITmy.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\PPNrT9mi.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\D5cyAa+g.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\+Km24xUm.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\e0yrs8p+.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\DjhfMqpA.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\qwjZ8aN2.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\ocNDh4no.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\G1yZr+lu.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\9ZsYmrJC.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\t2HKycyq.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\eaZMGTLa.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\2MkMVFj3.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\2AAqt+PZ.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\CfZtGx1I.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\gpupn6+G.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\nQnbqON9.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\BfOuDh7O.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\S4i4ExPN.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\EShXZfHu.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\JQEIB94T.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\G+nDUKJM.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\s7dJnfaG.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\xVv+RIWM.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\build-gz\hROzEIQY.gz
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\scopedcss\bundle\SAIRCMS.Client.styles.css
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\scopedcss\projectbundle\SAIRCMS.Client.bundle.scp.css
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\staticwebassets\SAIRCMS.Client.StaticWebAssets.Manifest.cache
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\staticwebassets\SAIRCMS.Client.StaticWebAssets.xml
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.RazorTargetAssemblyInfo.cache
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.csproj.CopyComplete
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\ref\SAIRCMS.Client.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\SAIRCMS.Client.pdb
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\serviceworkers\wwwroot\service-worker.js
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS\Client\obj\Debug\net5.0\service-worker-assets.js

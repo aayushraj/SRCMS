@@ -1,0 +1,129 @@
+﻿@page "/index"
+@inject HttpClient client
+@inject MudBlazor.ISnackbar snackBar
+
+    <MudGrid >
+        <MudItem xs="12" md="6" sm="12">
+            <MudCard Elevation="25" xs="12">
+                <MudCardHeader>
+                    <CardHeaderContent>
+                        <MudText Typo="Typo.h6" >Add Brands</MudText>
+                    </CardHeaderContent>
+                </MudCardHeader>
+                <MudCardContent>
+                    <MudTextField @bind-Value="brand.BrandName" Label="Brand Name" Variant="Variant.Outlined" Margin="Margin.Normal"></MudTextField>
+                    <MudTextField @bind-Value="brand.BrandCode" Label="Brand Code" Variant="Variant.Outlined" Margin="Margin.Normal"></MudTextField>
+                    <br />
+                    <MudButton Variant="Variant.Filled" Color="Color.Success" OnClick="Save">@click</MudButton>
+                </MudCardContent>
+            </MudCard>
+        </MudItem>
+    </MudGrid>
+    <br />
+    <MudTable Elevation="25" Items="brands" Filter="new Func<Brand, bool>(Search)" FixedFooter="true" FixedHeader="true">
+        <ToolBarContent>
+            <MudText Typo="Typo.h6">Brands</MudText>
+            <MudToolBarSpacer />
+            <MudTextField @bind-Value="searchString" Placeholder="Search for Brand..." Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0"></MudTextField>
+        </ToolBarContent>
+        <HeaderContent>
+            <MudTh>Brand Name</MudTh>
+            <MudTh>Brand Code</MudTh>
+            <MudTh>Actions</MudTh>
+        </HeaderContent>
+        <RowTemplate>
+            <MudTd>@context.BrandName</MudTd>
+            <MudTd>@context.BrandCode</MudTd>
+            <MudTd>
+                <MudFab @onclick="@(()=>Edit(@context.Id))" Color="Color.Primary" Icon="@Icons.Material.Outlined.Edit" Size="Size.Small" IconSize="Size.Small" Class="ma-2" />
+            </MudTd>
+        </RowTemplate>
+        <PagerContent>
+            <MudTablePager/>
+        </PagerContent>
+
+    </MudTable>
+    <MudScrollToTop>
+        <MudButton Variant="Variant.Filled" StartIcon="@Icons.Filled.ArrowUpward" >Go to top</MudButton>
+    </MudScrollToTop>
+    @code{
+        private string searchString = "";
+        private Brand brand = new Brand();
+        private IList<Brand> brands = new List<Brand>();
+        private string click = "Save";
+        protected override async Task OnInitializedAsync()
+        {
+            //GetBrands();
+        }
+
+        private async void GetBrands()
+        {
+            var response = await client.GetAsync("api/Brand/Get");
+
+            if (response.IsSuccessStatusCode)
+            {
+                var result = response.Content.ReadFromJsonAsync<Brand>().Result;
+                if (result.IsSuccess)
+                {
+                    if (result.List.Count() > 0)
+                    {
+                        brands = result.List;
+                        snackBar.Add(result.SuccessMessage, Severity.Normal);
+                    }
+
+                    else
+                    {
+                        snackBar.Add("No Data", Severity.Warning);
+                    }
+                }
+
+                snackBar.Add(result.FailureMessage, Severity.Warning);
+            }
+
+            else
+            {
+                snackBar.Add(response.ReasonPhrase, Severity.Error);
+            }
+
+            StateHasChanged();
+        }
+
+        private bool Search(Brand brand)
+        {
+            if (string.IsNullOrWhiteSpace(searchString)) return true;
+            if (brand.BrandName.Contains(searchString, StringComparison.OrdinalIgnoreCase))
+            {
+                return true;
+            }
+            return false;
+        }
+
+        private async void Save()
+        {
+            var isInserted = await client.PostAsJsonAsync<Brand>("api/Brand/",brand);
+            if (isInserted.IsSuccessStatusCode)
+            {
+                if (isInserted.StatusCode.Equals(200))
+                {
+                    GetBrands();
+                    snackBar.Add("Inserted Successfully", Severity.Success);
+                }
+            }
+
+            else
+            {
+                snackBar.Add("Error Inserting Data", Severity.Error);
+            }
+        }
+        private void Edit(int id)
+        {
+            brand = brands.FirstOrDefault(c => c.Id == id);
+            click = "Update";
+        }
+        //private void Delete(int id)
+        //{
+        //    customerService.DeleteCustomer(id);
+        //    snackBar.Add("Customer Deleted.", Severity.Success);
+        //    GetCustomers();
+        //}
+    }

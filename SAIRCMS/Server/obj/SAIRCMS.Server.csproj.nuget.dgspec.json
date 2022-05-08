@@ -1,0 +1,467 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS\\Server\\SAIRCMS.Server.csproj": {}
+  },
+  "projects": {
+    "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Application\\SAIRCMS.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Application\\SAIRCMS.Application.csproj",
+        "projectName": "SAIRCMS.Application",
+        "projectPath": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Application\\SAIRCMS.Application.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Domain\\SAIRCMS.Domain.csproj": {
+                "projectPath": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Domain\\SAIRCMS.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Domain\\SAIRCMS.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Domain\\SAIRCMS.Domain.csproj",
+        "projectName": "SAIRCMS.Domain",
+        "projectPath": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Domain\\SAIRCMS.Domain.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Infrastructure\\SAIRCMS.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Infrastructure\\SAIRCMS.Infrastructure.csproj",
+        "projectName": "SAIRCMS.Infrastructure",
+        "projectPath": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Infrastructure\\SAIRCMS.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Application\\SAIRCMS.Application.csproj": {
+                "projectPath": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Application\\SAIRCMS.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS\\Client\\SAIRCMS.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS\\Client\\SAIRCMS.Client.csproj",
+        "projectName": "SAIRCMS.Client",
+        "projectPath": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS\\Client\\SAIRCMS.Client.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Domain\\SAIRCMS.Domain.csproj": {
+                "projectPath": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Domain\\SAIRCMS.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "MudBlazor": {
+              "target": "Package",
+              "version": "[5.1.4, )"
+            },
+            "MudBlazor.ThemeManager": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            },
+            "Syncfusion.Blazor": {
+              "target": "Package",
+              "version": "[19.3.0.43, )"
+            },
+            "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[19.3.0.43, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.1, 6.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS\\Server\\SAIRCMS.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS\\Server\\SAIRCMS.Server.csproj",
+        "projectName": "SAIRCMS.Server",
+        "projectPath": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS\\Server\\SAIRCMS.Server.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Application\\SAIRCMS.Application.csproj": {
+                "projectPath": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Application\\SAIRCMS.Application.csproj"
+              },
+              "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Infrastructure\\SAIRCMS.Infrastructure.csproj": {
+                "projectPath": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS.Infrastructure\\SAIRCMS.Infrastructure.csproj"
+              },
+              "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS\\Client\\SAIRCMS.Client.csproj": {
+                "projectPath": "D:\\Aayush - My Files\\Phoe\\Aayush\\SaiRc\\SAIRCMS\\SAIRCMS\\Client\\SAIRCMS.Client.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.13, 5.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

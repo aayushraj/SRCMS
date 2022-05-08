@@ -1,0 +1,177 @@
+﻿@page "/category"
+@using Syncfusion.Blazor.Inputs
+@inject MudBlazor.ISnackbar snackBar
+@inject HttpClient client
+@inject IDialogService DialogService
+
+
+<style>
+    .add {
+        display: flex;
+        justify-content: center
+    }
+
+    .imageThumnail {
+        width: auto;
+        height: 100px;
+    }
+</style>
+<MudGrid>
+    <MudItem>
+        <MudCard>
+            <MudCardHeader>
+                <CardHeaderContent>
+                    <MudText Typo="Typo.h6">Category</MudText>
+                </CardHeaderContent>
+
+                <CardHeaderActions>
+                    <MudIconButton Icon="@Icons.Material.Filled.Add" Color="Color.Default" OnClick="@((e) => Add(category))" />
+                </CardHeaderActions>
+            </MudCardHeader>
+        </MudCard>
+    </MudItem>
+    <MudItem xs="12" md="6">
+        <SfTextBox Placeholder='Search' FloatLabelType='@FloatLabelType.Auto' Input="SearchCategory"></SfTextBox>
+    </MudItem>
+</MudGrid>
+<MudAvatarGroup Max="3">
+    <MudGrid>
+        @foreach (var item in templist.Count > 0 ? templist : categories)
+        {
+            <MudItem xs="12" md="3">
+                <MudCard Class="ma-2">
+                    <MudCardHeader>
+                        @*<CardHeaderAvatar>
+                                <MudAvatar Color="Color.Primary">@item.Name.Substring(0, 1)</MudAvatar>
+                            </CardHeaderAvatar>*@
+                        <CardHeaderContent>
+                            <MudText Typo="Typo.body1">@item.Name</MudText>
+                            <MudText Typo="Typo.body2">Add Type of Category Later</MudText>
+                        </CardHeaderContent>
+                        <CardHeaderActions>
+                            <MudIconButton Icon="@Icons.Material.Filled.Category" Color="Color.Primary" />
+                        </CardHeaderActions>
+                    </MudCardHeader>
+                    <MudCardMedia Image="/images/kurtha.jfif" Height="200" />
+                    <MudCardContent>
+                        <MudText Typo="Typo.body2">Available Stock : 2000</MudText>
+                    </MudCardContent>
+                    <MudCardActions>
+                        <MudIconButton Icon="@Icons.Material.Filled.Edit" Color="Color.Primary" />
+                        <MudIconButton Icon="@Icons.Material.Filled.Delete" Color="Color.Error" />
+                    </MudCardActions>
+                </MudCard>
+            </MudItem>
+        }
+    </MudGrid>
+</MudAvatarGroup>
+
+
+
+@code {
+    IList<Category> categories = new List<Category>();
+    Category category = new Category();
+    string ToastContent = "";
+    IList<string> tool = new List<string>() { "Add", "Cancel" };
+    public List<string> PageSizes { get; set; }
+    int row = 0;
+    int column = 0;
+    private bool resetValueOnEmptyText;
+    IList<Category> templist = new List<Category>();
+    private string value;
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        GetCategory();
+        this.PageSizes = new List<string>() { "5", "10", "15", "20", "All" };
+        templist = categories;
+
+    }
+
+    private async void GetCategory()
+    {
+        var response = await client.GetAsync("api/Category/GetAll");
+
+        if (response.IsSuccessStatusCode)
+        {
+            var result = response.Content.ReadFromJsonAsync<Category>().Result;
+            if (result.IsSuccess)
+            {
+                if (result.List.Count() > 0)
+                {
+                    categories = result.List;
+                    snackBar.Add(result.SuccessMessage, Severity.Normal);
+                    ToastContent = result.SuccessMessage;
+                }
+
+                else
+                {
+                    snackBar.Add("No Data", Severity.Warning);
+                }
+            }
+
+            snackBar.Add(result.FailureMessage, Severity.Warning);
+        }
+
+        else
+        {
+            snackBar.Add(response.ReasonPhrase, Severity.Error);
+        }
+
+        StateHasChanged();
+
+    }
+
+
+    private async void Save(Category data)
+    {
+        var isInserted = await client.PostAsJsonAsync<Category>("api/Category/", data);
+        if (isInserted.IsSuccessStatusCode)
+        {
+            GetCategory();
+            snackBar.Add("Inserted Successfully", Severity.Success);
+        }
+
+        else
+        {
+            snackBar.Add("Error Inserting Data", Severity.Error);
+        }
+
+    }
+    private void AddCategory()
+    {
+
+    }
+    private void SearchCategory(InputEventArgs args)
+    {
+        if (args.Value == "")
+        {
+            templist = categories;
+        }
+        else
+        {
+            templist = categories.Where(x => x.Name.Contains(args.Value.ToString(), StringComparison.InvariantCultureIgnoreCase)).ToList();
+
+        }
+        StateHasChanged();
+    }
+
+    async Task Add(Category category)
+    {
+        @* var parameters = new DialogParameters { ["server"] = server };
+
+        var dialog = DialogService.Show("Delete Server", parameters);
+        var result = await dialog.Result;
+
+        if (!result.Cancelled)
+        {
+            //In a real world scenario we would reload the data from the source here since we "removed" it in the dialog already.
+            Guid.TryParse(result.Data.ToString(), out Guid deletedServer);
+            Servers.RemoveAll(item => item.Id == deletedServer);
+        } *@
+    }
+
+}
+
+

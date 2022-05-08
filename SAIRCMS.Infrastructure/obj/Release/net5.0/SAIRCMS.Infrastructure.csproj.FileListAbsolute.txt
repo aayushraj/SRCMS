@@ -1,0 +1,17 @@
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Infrastructure\bin\Release\net5.0\SAIRCMS.Infrastructure.deps.json
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Infrastructure\bin\Release\net5.0\SAIRCMS.Infrastructure.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Infrastructure\bin\Release\net5.0\ref\SAIRCMS.Infrastructure.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Infrastructure\bin\Release\net5.0\SAIRCMS.Infrastructure.pdb
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Infrastructure\bin\Release\net5.0\SAIRCMS.Application.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Infrastructure\bin\Release\net5.0\SAIRCMS.Domain.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Infrastructure\bin\Release\net5.0\SAIRCMS.Application.pdb
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Infrastructure\bin\Release\net5.0\SAIRCMS.Domain.pdb
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Infrastructure\obj\Release\net5.0\SAIRCMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Infrastructure\obj\Release\net5.0\SAIRCMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Infrastructure\obj\Release\net5.0\SAIRCMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Infrastructure\obj\Release\net5.0\SAIRCMS.Infrastructure.AssemblyInfo.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Infrastructure\obj\Release\net5.0\SAIRCMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Infrastructure\obj\Release\net5.0\SAIRCMS.Infrastructure.csproj.CopyComplete
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Infrastructure\obj\Release\net5.0\SAIRCMS.Infrastructure.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Infrastructure\obj\Release\net5.0\ref\SAIRCMS.Infrastructure.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Infrastructure\obj\Release\net5.0\SAIRCMS.Infrastructure.pdb

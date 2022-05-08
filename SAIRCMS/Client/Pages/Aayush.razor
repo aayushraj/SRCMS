@@ -1,0 +1,33 @@
+﻿@page "/Arun"
+
+<label>Message:</label>
+@*<input type="text" @bind:event="onchange="()=>load()"" @bind="message" />*@
+<input @onfocusin="()=>load()" @bind="message" />
+
+<div style="display:@hidden" >
+    <label>Typing...</label>
+</div>
+
+
+
+@code {
+    private string message;
+    private string hidden="none";
+
+    private void load()
+    {
+        Console.WriteLine("Function Called!");
+        if (!string.IsNullOrEmpty(message))
+        {
+            Console.WriteLine("Message:{0}",message);
+            hidden = "block";
+        }
+        else
+        {
+            Console.WriteLine("Hidden!");
+            hidden = "none";
+        }
+
+        StateHasChanged();
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d41f5123-6d02-4daf-9819-bc564a14fdb4": {
+      "ProjectGuid": "d41f5123-6d02-4daf-9819-bc564a14fdb4",
+      "DisplayName": "SAIRCMS.Server",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "fc4ef849-c103-464b-aa82-d1155f341993": {
+      "ProjectGuid": "fc4ef849-c103-464b-aa82-d1155f341993",
+      "DisplayName": "SAIRCMS.Client",
+      "ColorIndex": 1
+    },
+    "cfa626d5-069c-4b70-8619-39eb2b9b8651": {
+      "ProjectGuid": "cfa626d5-069c-4b70-8619-39eb2b9b8651",
+      "DisplayName": "SAIRCMS.Application",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

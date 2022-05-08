@@ -1,0 +1,30 @@
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\bin\Debug\net5.0\SAIRCMS.Application.deps.json
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\bin\Debug\net5.0\SAIRCMS.Application.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\bin\Debug\net5.0\ref\SAIRCMS.Application.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\bin\Debug\net5.0\SAIRCMS.Application.pdb
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\bin\Debug\net5.0\SAIRCMS.Domain.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\bin\Debug\net5.0\SAIRCMS.Domain.pdb
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\obj\Debug\net5.0\SAIRCMS.Application.csproj.AssemblyReference.cache
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\obj\Debug\net5.0\SAIRCMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\obj\Debug\net5.0\SAIRCMS.Application.AssemblyInfoInputs.cache
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\obj\Debug\net5.0\SAIRCMS.Application.AssemblyInfo.cs
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\obj\Debug\net5.0\SAIRCMS.Application.csproj.CoreCompileInputs.cache
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\obj\Debug\net5.0\SAIRCMS.Application.csproj.CopyComplete
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\obj\Debug\net5.0\SAIRCMS.Application.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\obj\Debug\net5.0\ref\SAIRCMS.Application.dll
+C:\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\obj\Debug\net5.0\SAIRCMS.Application.pdb
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\bin\Debug\net5.0\SAIRCMS.Application.deps.json
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\bin\Debug\net5.0\SAIRCMS.Application.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\bin\Debug\net5.0\ref\SAIRCMS.Application.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\bin\Debug\net5.0\SAIRCMS.Application.pdb
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\bin\Debug\net5.0\SAIRCMS.Domain.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\bin\Debug\net5.0\SAIRCMS.Domain.pdb
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\obj\Debug\net5.0\SAIRCMS.Application.csproj.AssemblyReference.cache
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\obj\Debug\net5.0\SAIRCMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\obj\Debug\net5.0\SAIRCMS.Application.AssemblyInfoInputs.cache
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\obj\Debug\net5.0\SAIRCMS.Application.AssemblyInfo.cs
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\obj\Debug\net5.0\SAIRCMS.Application.csproj.CoreCompileInputs.cache
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\obj\Debug\net5.0\SAIRCMS.Application.csproj.CopyComplete
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\obj\Debug\net5.0\SAIRCMS.Application.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\obj\Debug\net5.0\ref\SAIRCMS.Application.dll
+D:\Aayush - My Files\Phoe\Aayush\SaiRc\SAIRCMS\SAIRCMS.Application\obj\Debug\net5.0\SAIRCMS.Application.pdb
